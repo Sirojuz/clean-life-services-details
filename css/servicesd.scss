@@ -6,6 +6,14 @@
     text-decoration: none;
     font-family: 'Gilroy' , sans-serif;
 }
+
+html {
+    scroll-behavior: smooth;
+    -webkit-scroll-behavior: smooth;
+    -moz-scroll-behavior: smooth;
+    -o-scroll-behavior: smooth;
+}
+
 // O'ZGARUVCHILAR
 $color_green: #00CA2C;
 $color_white: #FFFFFF;
